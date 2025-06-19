@@ -86,7 +86,7 @@ To run this project locally, follow these steps:
 
     - **Vertex AI Access Token (For Development):**
       - Make sure you have the [Google Cloud CLI](https://cloud.google.com/sdk/docs/install) installed.
-      - Authenticate with your Google account:
+      - Authenticate with your Google account and provide all the access:
         ```bash
         gcloud auth application-default login
         ```
@@ -96,7 +96,7 @@ To run this project locally, follow these steps:
         ```
       - Copy the entire token string.
       - In `lib/service.dart`, paste this token into the `tempAccessToken` variable.
-      - **Note:** This token expires after about an hour and needs to be regenerated for development.
+      - **NOTE:** This token expires after about an hour and needs to be regenerated for development.
 
 4.  **Update Project ID:**
     - In `lib/service.dart`, find the `_projectId` variable and replace the placeholder with your actual Google Cloud Project ID.
