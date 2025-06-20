@@ -113,6 +113,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-[YOUR NAME] - [@YourTwitter (Optional)] - [your.email@example.com]
+Debangshu Mounas - debangshumounas.dev@gmail.com
 
-Project Link: [https://github.com/[YOUR_GITHUB_USERNAME]/nova_ai](https://github.com/[YOUR_GITHUB_USERNAME]/nova_ai)
+Project Link: https://github.com/DMounas/nova_ai
