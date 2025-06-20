@@ -12,8 +12,8 @@ A sophisticated, cross-platform conversational AI assistant built with Flutter, 
 ---
 
 <p align="center">
-  <a href="https://youtu.be/YOUR_YOUTUBE_VIDEO_ID_HERE" target="_blank">
-    <img src="URL_OF_YOUR_UPLOADED_GIF_HERE" alt="Nova AI Animated Demo" width="300"/>
+  <a href="PASTE_YOUR_MP4_LINK_FROM_GITHUB_HERE" target="_blank">
+    <img src="![Image](https://github.com/user-attachments/assets/4968ac37-dd9a-4c68-b3e9-13d1564cd424)" alt="Nova AI Animated Demo" width="300"/>
   </a>
   <br/>
   <em>Click the animation to watch the full demo with audio on YouTube!</em>
