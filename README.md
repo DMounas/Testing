@@ -12,10 +12,11 @@ A sophisticated, cross-platform conversational AI assistant built with Flutter, 
 ---
 
 <p align="center">
-  <strong>⚠️ Important: Create a short GIF or video of the app working and replace this placeholder! ⚠️</strong><br/>
-  <em>A visual demo is the most powerful part of a portfolio project.</em>
-  <br/><br/>
-  <img src="link-to-your-demo.gif" alt="Nova AI Demo GIF" width="300"/>
+  <a href="https://youtu.be/YOUR_YOUTUBE_VIDEO_ID_HERE" target="_blank">
+    <img src="URL_OF_YOUR_UPLOADED_GIF_HERE" alt="Nova AI Animated Demo" width="300"/>
+  </a>
+  <br/>
+  <em>Click the animation to watch the full demo with audio on YouTube!</em>
 </p>
 
 ## About The Project
